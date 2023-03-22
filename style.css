@@ -1,0 +1,48 @@
+body {
+    font-size: 30px;
+    background-image: url(img1.png.png);
+    text-align: center;
+    color: rgb(70, 25, 25);
+    font-family: 'Shrikhand', cursive;
+}
+
+
+div {
+    margin: 110px 110px 0;
+    height: 400px;
+    background-color: rgb(187, 136, 89) ;
+    border-radius: 13px;
+    padding: 10px;
+    box-shadow: 0 20px 60px black;
+}
+
+button {
+    font-family: 'Shrikhand', cursive;
+    font-size: 20px;
+    border-radius: 20px 20px;
+    box-shadow: 0 10px 20px ;
+    color: sienna;
+    box-sizing: border-box 0 20px;
+}
+
+footer {
+    font-size: 14px;
+    padding: 10px;
+    background-color: sienna ;
+    margin: 30px 30px ;
+    height: 20px;
+     box-shadow: 0 20px 20px ;
+
+}
+
+a{
+    text-decoration: none;
+    color: rgb(70, 25, 25) ;
+    text-align: center;
+   
+}
+
+a:hover {
+ color:rgb(187, 136, 89) ;
+
+}
